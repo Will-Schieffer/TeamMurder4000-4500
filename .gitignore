@@ -1,0 +1,32 @@
+# Unreal Engine build / cache folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Logs, generated files
+*.log
+*.pdb
+*.tmp
+
+# Backup files
+*_Backup
+*_Autosave
+
+# Unreal file types to ignore
+*.xcodeproj
+*.xcworkspace
+*.xcsettings
+*.xcuserdata/
